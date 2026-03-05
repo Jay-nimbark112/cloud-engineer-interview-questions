@@ -131,9 +131,24 @@ Here is a generated table of contents for the provided Markdown file:
 
 **Infrastructure as a service (IaaS)** is the most basic cloud service model. It provides access to computing resources, such as servers, storage, and networking. Users are responsible for managing and maintaining the resources, including installing and configuring operating systems and applications.
 
+Amazon EC2 – Virtual servers in the cloud
+Microsoft Azure Virtual Machines
+Google Compute Engine
+DigitalOcean Droplets
+
 **Platform as a service (PaaS)** provides a platform for developing, running, and managing applications. It includes IaaS capabilities, plus additional services such as databases, middleware, and development tools. Users do not need to manage the underlying infrastructure, but they are still responsible for managing and maintaining their applications.
 
+Heroku – Deploy apps without managing servers
+Google App Engine
+Microsoft Azure App Service
+Red Hat OpenShift
+
 **Software as a service (SaaS)** is the most complete cloud service model. It provides access to software applications that are hosted and managed by the cloud provider. Users do not need to manage any infrastructure or applications; they simply access the applications through a web browser or mobile device.
+
+Google Workspace – Gmail, Docs, Sheets
+Salesforce
+Dropbox
+Slack
 
 ### Comparison of IaaS, PaaS, and SaaS:
 
